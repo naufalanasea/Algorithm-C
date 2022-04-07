@@ -1,0 +1,4 @@
+Nama barang : Ayam Bakar
+Jumlah : 2
+Harga Satuan : 25000
+Total : 50000
