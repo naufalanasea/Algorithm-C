@@ -12,7 +12,6 @@ int main(){
 	scanitem();
 	scanfilegmail();
 	scanfilebank();
-	
 	website();
 	
 	return 0;
