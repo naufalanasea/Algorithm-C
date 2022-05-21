@@ -5,5 +5,6 @@ int main(){
   base.input();
   base.proses();
   base.output();
+  
   return 0;
   }
