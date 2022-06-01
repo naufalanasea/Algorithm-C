@@ -39,7 +39,7 @@ edit:
 	printListNama(nama_mahasiswa, jumlah, " Nama mahasiswa saat ini : ");
 
 	//pilihan edit data, user memasukkan semua nama jika pilihan 'n'
-	cout << "\n[!] Ketik 'P' lanjut atau 'B' input data baru : "; cin >> edit;
+	cout << "\n[!] Ketik 'P' untuk lanjut atau 'B' input data baru : "; cin >> edit;
 	switch (tolower(edit))
 	{
 	case 'p':
