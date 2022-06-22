@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 class pointer {
 public:
     void data_mhs(){
